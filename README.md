@@ -1,0 +1,1 @@
+This is a simple project to refamiliarize myself with GIT before I begin my new programming project
