@@ -4,4 +4,6 @@
 
 function app(){
     var test, booger, temple;
+    booger = 5;
+    console.log(booger);
 }
